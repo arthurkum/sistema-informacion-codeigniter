@@ -1,0 +1,42 @@
+# CodeIgniter 4 .gitignore
+
+# Environment & Credentials
+.env
+
+# Writable directory runtime artifacts (keep gitkeep)
+writable/cache/*
+!writable/cache/.gitkeep
+!writable/cache/index.html
+
+writable/debugbar/*
+!writable/debugbar/.gitkeep
+
+writable/logs/*
+!writable/logs/.gitkeep
+!writable/logs/index.html
+
+writable/session/*
+!writable/session/.gitkeep
+!writable/session/index.html
+
+writable/uploads/*
+!writable/uploads/.gitkeep
+!writable/uploads/index.html
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Testing
+.phpunit.result.cache
+
+# Temporary files
+temp_*
+ci4.zip
