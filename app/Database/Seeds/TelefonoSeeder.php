@@ -50,3 +50,4 @@ class TelefonoSeeder extends Seeder
         $this->db->table('telefonos')->insertBatch($data);
     }
 }
+

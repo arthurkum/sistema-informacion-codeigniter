@@ -151,3 +151,4 @@ INSERT INTO `telefonos` (`id`, `persona_id`, `tipo_telefono`, `indicativo`, `num
 (2, 1, 'Oficina', '+57', '6044445555', 0, NOW(), NOW()),
 (3, 2, 'Móvil', '+57', '3159876543', 1, NOW(), NOW()),
 (4, 3, 'WhatsApp', '+57', '3205556677', 1, NOW(), NOW());
+

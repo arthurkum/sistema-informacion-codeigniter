@@ -48,3 +48,4 @@ class CreateEstadosCivilesTable extends Migration
         $this->forge->dropTable('estados_civiles', true);
     }
 }
+

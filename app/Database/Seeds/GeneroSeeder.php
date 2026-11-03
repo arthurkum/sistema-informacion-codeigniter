@@ -49,3 +49,4 @@ class GeneroSeeder extends Seeder
         $this->db->table('generos')->insertBatch($data);
     }
 }
+

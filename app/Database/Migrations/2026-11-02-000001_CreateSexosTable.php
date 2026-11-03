@@ -53,3 +53,4 @@ class CreateSexosTable extends Migration
         $this->forge->dropTable('sexos', true);
     }
 }
+

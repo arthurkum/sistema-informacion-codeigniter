@@ -72,3 +72,4 @@ class CreateDireccionesTable extends Migration
         $this->forge->dropTable('direcciones', true);
     }
 }
+

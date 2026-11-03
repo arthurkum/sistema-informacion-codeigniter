@@ -62,3 +62,4 @@ class PersonaSeeder extends Seeder
         $this->db->table('personas')->insertBatch($data);
     }
 }
+

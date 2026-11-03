@@ -173,3 +173,4 @@ class PersonaController extends BaseController
         return redirect()->to('/personas')->with('success', 'Persona y sus registros vinculados han sido eliminados correctamente.');
     }
 }
+

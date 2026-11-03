@@ -45,3 +45,4 @@ class GeneroModel extends Model
         return $count > 0;
     }
 }
+

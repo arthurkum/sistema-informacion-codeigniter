@@ -12,3 +12,4 @@ class ScrumController extends BaseController
         return view('scrum/index', $data);
     }
 }
+

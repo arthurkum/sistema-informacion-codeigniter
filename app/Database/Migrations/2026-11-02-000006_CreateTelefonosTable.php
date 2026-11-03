@@ -59,3 +59,4 @@ class CreateTelefonosTable extends Migration
         $this->forge->dropTable('telefonos', true);
     }
 }
+

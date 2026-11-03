@@ -151,3 +151,4 @@ class TelefonoController extends BaseController
         return redirect()->to('/telefonos')->with('success', 'Teléfono eliminado exitosamente.');
     }
 }
+

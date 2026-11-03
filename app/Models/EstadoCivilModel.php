@@ -45,3 +45,4 @@ class EstadoCivilModel extends Model
         return $count > 0;
     }
 }
+

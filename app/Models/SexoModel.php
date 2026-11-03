@@ -45,3 +45,4 @@ class SexoModel extends Model
         return $count > 0;
     }
 }
+

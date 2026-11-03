@@ -38,3 +38,4 @@ class SexoSeeder extends Seeder
         $this->db->table('sexos')->insertBatch($data);
     }
 }
+

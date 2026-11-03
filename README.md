@@ -115,7 +115,7 @@ El proyecto fue planificado y ejecutado simulando el ciclo de vida de **Scrum**.
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/sistema-informacion-codeigniter.git
+git clone https://github.com/arthurkum/sistema-informacion-codeigniter.git
 cd sistema-informacion-codeigniter
 ```
 
@@ -179,7 +179,7 @@ El proyecto implementa la convención **Conventional Commits** para mantener un 
 ```bash
 # 1. Crear un repositorio vacío en github.com (ej. sistema-informacion-codeigniter)
 # 2. Vincular el repositorio remoto (reemplaza con tu URL):
-git remote add origin https://github.com/TU_USUARIO/sistema-informacion-codeigniter.git
+git remote add origin https://github.com/arthurkum/sistema-informacion-codeigniter.git
 
 # 3. Subir las ramas y commits:
 git push -u origin main
@@ -238,7 +238,7 @@ Lista de comprobación (Checklist) para la sustentación y revisión docente:
 
 | Entregable | Enlace / URL |
 |---|---|
-| **Repositorio de GitHub:** | `https://github.com/TU_USUARIO/sistema-informacion-codeigniter` |
+| **Repositorio de GitHub:** | `https://github.com/arthurkum/sistema-informacion-codeigniter` |
 | **Dirección del Sistema en Servidor:** | `http://localhost:8080/` *(o URL pública de hosting)* |
 
 ---

@@ -49,3 +49,4 @@ class EstadoCivilSeeder extends Seeder
         $this->db->table('estados_civiles')->insertBatch($data);
     }
 }
+

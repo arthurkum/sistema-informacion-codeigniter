@@ -304,7 +304,7 @@
                 <h6 class="fw-bold text-dark"><i class="bi bi-github text-dark me-1"></i> A. Enlace del Repositorio de GitHub:</h6>
                 <div class="input-group mb-2">
                     <span class="input-group-text bg-light"><i class="bi bi-link-45deg"></i></span>
-                    <input type="text" class="form-control" readonly value="https://github.com/TU_USUARIO/sistema-informacion-codeigniter" placeholder="Pega aquí el enlace de tu repositorio GitHub">
+                    <input type="text" class="form-control" readonly value="https://github.com/arthurkum/sistema-informacion-codeigniter" placeholder="Pega aquí el enlace de tu repositorio GitHub">
                 </div>
                 <small class="text-muted d-block mb-3">
                     El repositorio contiene el código fuente completo, estructura MVC, migraciones, seeders, el script <code>database.sql</code> y el archivo <code>README.md</code> detallado.
@@ -326,3 +326,4 @@
 </div>
 
 <?= $this->endSection() ?>
+

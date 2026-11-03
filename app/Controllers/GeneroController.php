@@ -107,3 +107,4 @@ class GeneroController extends BaseController
         return redirect()->to('/generos')->with('success', 'Registro de género eliminado correctamente.');
     }
 }
+

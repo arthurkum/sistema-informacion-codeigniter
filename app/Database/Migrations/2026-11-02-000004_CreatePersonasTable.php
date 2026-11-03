@@ -88,3 +88,4 @@ class CreatePersonasTable extends Migration
         $this->forge->dropTable('personas', true);
     }
 }
+

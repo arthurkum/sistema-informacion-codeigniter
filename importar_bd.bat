@@ -19,3 +19,4 @@ if exist "C:\xampp\mysql\bin\mysql.exe" (
 
 echo.
 pause
+

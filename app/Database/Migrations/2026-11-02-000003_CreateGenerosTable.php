@@ -48,3 +48,4 @@ class CreateGenerosTable extends Migration
         $this->forge->dropTable('generos', true);
     }
 }
+

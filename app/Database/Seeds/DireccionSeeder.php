@@ -62,3 +62,4 @@ class DireccionSeeder extends Seeder
         $this->db->table('direcciones')->insertBatch($data);
     }
 }
+

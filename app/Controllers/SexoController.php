@@ -111,3 +111,4 @@ class SexoController extends BaseController
         return redirect()->to('/sexos')->with('success', 'Registro de sexo eliminado correctamente.');
     }
 }
+

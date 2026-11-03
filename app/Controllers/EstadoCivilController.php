@@ -107,3 +107,4 @@ class EstadoCivilController extends BaseController
         return redirect()->to('/estados-civiles')->with('success', 'Estado civil eliminado correctamente.');
     }
 }
+
